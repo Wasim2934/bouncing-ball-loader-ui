@@ -3,6 +3,7 @@
 A simple and smooth animated **bouncing ball + circular loader UI**, built using only **HTML & CSS**.  
 Perfect for practicing CSS animations, loaders, UI micro-interactions, and component design.
 
+## Demo - https://wasim2934.github.io/bouncing-ball-loader-ui/
 
 ## Features
 
@@ -19,8 +20,6 @@ Perfect for practicing CSS animations, loaders, UI micro-interactions, and compo
 - CSS3 (Animations, Flexbox)
 - System Fonts
 
-## Demo
-https://wasim2934.github.io/bouncing-ball-loader-ui/
 
 
 
